@@ -1,4 +1,4 @@
-const GETTY_IMAGES_API_KEY = '<place your GettyImages api token here>';
+const GETTY_IMAGES_API_KEY = '6zwyuykpsdj8vhacuqk8bnez';
 
 const request = require('request');
 

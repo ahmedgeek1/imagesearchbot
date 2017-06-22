@@ -1,5 +1,5 @@
-const API_AI_TOKEN = '<place your api ai token here>';
-const FACEBOOK_ACCESS_TOKEN = '<place your facebook page token here>';
+const API_AI_TOKEN = '393a9f2270334a0da8d17c43440c5643';
+const FACEBOOK_ACCESS_TOKEN = 'EAAKqj89OOxMBAE7RVPJPrPHad8avN1p2cVtOwITKoVPmcxIAdBwbDyrNUk0uQv9lZBL51LMMbqqiD0PZAWHP82mZANGYemQZAzEr3ZAPfanrnc3v4Rbc8pmmj2zUJErIKPsn9KZBVaNgDYUjwbhJnhxkSUXKnMFsCxkfmMddu7ZAwZDZD';
 
 const request = require('request');
 
